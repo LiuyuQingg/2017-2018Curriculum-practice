@@ -1,2 +1,2 @@
 # 2017-2018Curriculum-practice
-a
+这是一个实训项目文件夹
